@@ -13,5 +13,5 @@
 4. 将项目中的sql 文件导进MySql 中
 5. 把项目配置服务器中即可运行项目中的index.jsp
 # 预览效果
-* 用户登录页面
 ![主页](https://github.com/pzhiquan/Course/blob/master/WebRoot/images/course1.gif?raw=true)
+![响应式移动端页面](https://github.com/pzhiquan/Course/blob/master/WebRoot/images/course-bs.gif?raw=true)

@@ -16,4 +16,5 @@
 * 主页
 ![主页](https://github.com/pzhiquan/Course/blob/master/WebRoot/images/course1.gif?raw=true)
 * 响应式移动端页面
+
 ![响应式移动端页面](https://github.com/pzhiquan/Course/blob/master/WebRoot/images/course-bs.gif?raw=true)

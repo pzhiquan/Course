@@ -6,7 +6,10 @@
 * IDE:MyEclipse
 * 数据库:MySql
 * Tomcat:Tomcat 7.0
-## 部署环境
+# 部署环境
 1. 在开发环境新建一个Web Project,取名为Course
-2. 复制项目目录下的src、WebContent文件夹内容
-3. 粘帖进项目后，打开WebContent->WEB-INF->lib，将里面的所有包右击加进java运行环境中
+2. 复制项目目录下的src和WebRoot文件夹内容，粘帖进项目
+3. 打开WebRoot->WEB-INF->lib，将里面的所有包右击加进java运行环境中
+4. 将项目中的sql 文件导进MySql 中
+5. 把项目配置服务器中即可运行项目
+# 预览效果

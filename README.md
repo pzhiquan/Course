@@ -14,4 +14,4 @@
 5. 把项目配置服务器中即可运行项目中的index.jsp
 # 预览效果
 * 用户登录页面
-![用户登录](https://github.com/SK-Keith/Fix/blob/master/example/images/1.png)
+![主页](https://github.com/pzhiquan/Course/blob/master/WebRoot/images/course1.gif?raw=true)

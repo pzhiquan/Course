@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+/**网络课程精选**/
+.part1{
+	position: relative;
+	width: 85%;
+    margin: 10px auto;
+}
+
+
+.course{
+	padding:15px;
+}
+.polaroid {
+    box-shadow: 0 6px 30px 10px rgba(0, 0, 0, 0.2), 0 7px 20px 0px rgba(0, 0, 0, 0.19);
+    float: left;
+    margin: 5px 20px 30px;
+    transition: all .5s ease-out 0s;
+}
+
+.polaroid:hover{
+	transform:scale(1.1);
+}
+.course-title{
+  text-align: center;
+  font-size: 17px;
+    margin: 10px;
+}
+.description{
+	float:left;
+	color: #444;
+    font-size: 18px;
+        min-height: 270px;
+}

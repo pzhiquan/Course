@@ -1,0 +1,49 @@
+@CHARSET "UTF-8";
+input::-webkit-input-placeholder {
+      color: #7498C9!important;
+    }
+/**头部**/
+.header{
+	width:100%;
+	background-color:#D8E2F3!important;
+	opacity: 0.7;
+}
+
+.logo-style{
+	color: #7498C9!important;
+}
+.navbar-header{
+	border: 0;
+}
+.navbar-brand{
+	font-size:30px!important;
+	padding:15px 15px!important;
+}
+.navbar-nav li a{
+	color:#7498C9!important;
+	font-size: 22px;
+}
+.navbar-nav li a:hover{
+	color:#fff!important;
+}
+.search-box{
+	width:35%;
+	float:left;
+	line-height: 48px;
+}
+.search-content{
+	border: 0;
+	border-radius: 8px;
+	vertical-align: middle;
+	color: #7498C9;
+    font-size: 1.2vw;
+	}
+.search-button{
+	border: 0;
+	background:url(/course/images/fdj.png) no-repeat center;
+	width: 12%;
+	background-size: 100% 70%;
+	border-radius: 10px;
+	vertical-align: middle;
+	}
+      

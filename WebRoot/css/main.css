@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+body { font: normal 100% Helvetica, Arial, sans-serif; } 
+/**背景图**/
+.main-bg{
+	background-image: url(/bs-course/images/mainb.jpg);
+    background-size: 100% 170%;
+    background-repeat: no-repeat; 
+}
+
+/**主体部分**/
+
+/**网络课程精选**/
+
+

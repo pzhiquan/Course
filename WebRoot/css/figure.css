@@ -1,0 +1,79 @@
+@CHARSET "UTF-8";
+/**轮播图**/
+.bantext {
+	width:100%;
+    position: absolute;
+    z-index: 100;
+    opacity: 0.6;
+    bottom: 10%;
+    display: block;
+    font-size: 30px;
+    background: #5B5B58;
+    text-align: center;
+}
+
+.bantext a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.pic-title {
+
+    height: 100%;
+    width: 100%;
+    position: absolute;
+
+   
+}
+.pic-title h4 {
+    position: absolute;
+    bottom: 130%;
+    font-size: 24px;
+    padding: 0 20px;
+    color: #fff;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    font-weight: 400;
+        text-align: center;
+}
+.pic-mid {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.pic-mid ul li img, .pic-right ul li img {
+    transition: all .5s ease-out 0s;
+}
+.slick-current img,.pic-mid ul li:hover img,.pic-right ul li:hover img{
+	transform:scale(1.1)
+}
+.pic-mid ul li, .pic-right ul li {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.pic-mid img{
+	width:104%;
+}
+.pic-right img{
+	width:104%;
+}
+a:focus {
+	outline: none;
+}
+.navbar-brand {
+	padding:0;
+}
+#myCarousel {
+	margin:20px 0 0 0;
+}
+.carousel-inner .item img {
+	margin: 0 auto;
+	width:100%;
+	max-height:423px!important;
+}
+.carousel-control {
+	font-size: 100px!important;
+}

@@ -11,7 +11,7 @@
 2. 复制项目目录下的src和WebRoot文件夹内容，粘帖进项目
 3. 打开WebRoot->WEB-INF->lib，将里面的所有包右击加进java运行环境中
 4. 将项目中的sql 文件导进MySql 中
-5. 把项目配置服务器中即可运行项目
+5. 把项目配置服务器中即可运行项目中的index.jsp
 # 预览效果
 * 用户登录页面
 ![用户登录](https://github.com/SK-Keith/Fix/blob/master/example/images/1.png)
